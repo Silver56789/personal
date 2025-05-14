@@ -1,0 +1,5762 @@
+{
+    "giornata 1": {
+        "utente": "Annalisa",
+        "punteggio": 70.0,
+        "titolari": [
+            {
+                "ruolo": "P",
+                "nome": "SOMMER",
+                "voto": 5.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "BUONGIORNO",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "BREMER",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BASTONI",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BELLANOVA",
+                "voto": 7.0,
+                "fantavoto": 7.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "SUSLOV",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "SOULE",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "THURAM K",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "LEAO",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "KRSTOVIC",
+                "voto": 5.0,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "ZACCAGNI",
+                "voto": 7.0,
+                "fantavoto": 10.0
+            }
+        ],
+        "panchina": [
+            {
+                "ruolo": "P",
+                "nome": "CARNESECCHI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "P",
+                "nome": "SCUFFET",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "DANILO L",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MAZZOCCHI",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARUSIC",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARIO RUI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "LOCATELLI M",
+                "voto": 6.5,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "SAMARDZIC",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "TAMEZE",
+                "voto": 6.0,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "ZEROLI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "CIURRIA",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "MOTA",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "BELTRAN",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "SCAMACCA",
+                "voto": null,
+                "fantavoto": null
+            }
+        ],
+        "modificatori": {
+            "0": null
+        }
+    },
+    "giornata 2": {
+        "utente": "Annalisa",
+        "punteggio": 67.5,
+        "titolari": [
+            {
+                "ruolo": "P",
+                "nome": "SOMMER",
+                "voto": 6.0,
+                "fantavoto": 7.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BREMER",
+                "voto": 7.0,
+                "fantavoto": 7.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BUONGIORNO",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "BASTONI",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARUSIC",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "SOULE",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "LOCATELLI M",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "SUSLOV",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "LEAO",
+                "voto": 6.0,
+                "fantavoto": 7.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "ZACCAGNI",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "KRSTOVIC",
+                "voto": 5.0,
+                "fantavoto": 5.0
+            }
+        ],
+        "panchina": [
+            {
+                "ruolo": "P",
+                "nome": "SCUFFET",
+                "voto": 6.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "P",
+                "nome": "CARNESECCHI",
+                "voto": 6.5,
+                "fantavoto": 4.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "DANILO L",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MAZZOCCHI",
+                "voto": 6.0,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "BELLANOVA",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARIO RUI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "SAMARDZIC",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "TAMEZE",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "ZEROLI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "THURAM K",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "CIURRIA",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "MOTA",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "BELTRAN",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "SCAMACCA",
+                "voto": null,
+                "fantavoto": null
+            }
+        ],
+        "modificatori": {
+            "0": null
+        }
+    },
+    "giornata 3": {
+        "utente": "Annalisa",
+        "punteggio": 75.0,
+        "titolari": [
+            {
+                "ruolo": "P",
+                "nome": "SOMMER",
+                "voto": 6.5,
+                "fantavoto": 7.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "BASTONI",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "BREMER",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "BUONGIORNO",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BELLANOVA",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "SUSLOV",
+                "voto": 5.5,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "LOCATELLI M",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "SOULE",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "ZACCAGNI",
+                "voto": 6.5,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "KRSTOVIC",
+                "voto": 7.0,
+                "fantavoto": 10.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "LEAO",
+                "voto": 7.0,
+                "fantavoto": 10.0
+            }
+        ],
+        "panchina": [
+            {
+                "ruolo": "P",
+                "nome": "CARNESECCHI",
+                "voto": 6.0,
+                "fantavoto": 2.0
+            },
+            {
+                "ruolo": "P",
+                "nome": "SCUFFET",
+                "voto": 6.0,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARUSIC",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "MAZZOCCHI",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "DANILO L",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARIO RUI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "TAMEZE",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "SAMARDZIC",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "THURAM K",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "CIURRIA",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "ZEROLI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "MOTA",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "BELTRAN",
+                "voto": 5.0,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "SCAMACCA",
+                "voto": null,
+                "fantavoto": null
+            }
+        ],
+        "modificatori": {
+            "0": null
+        }
+    },
+    "giornata 4": {
+        "utente": "Annalisa",
+        "punteggio": 73.0,
+        "titolari": [
+            {
+                "ruolo": "P",
+                "nome": "SOMMER",
+                "voto": 6.0,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BREMER",
+                "voto": 6.0,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "BASTONI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "BUONGIORNO",
+                "voto": 7.0,
+                "fantavoto": 10.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BELLANOVA",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "SAMARDZIC",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "SUSLOV",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "LOCATELLI M",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "LEAO",
+                "voto": 7.0,
+                "fantavoto": 8.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "KRSTOVIC",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "ZACCAGNI",
+                "voto": 7.0,
+                "fantavoto": 9.0
+            }
+        ],
+        "panchina": [
+            {
+                "ruolo": "P",
+                "nome": "CARNESECCHI",
+                "voto": 6.0,
+                "fantavoto": 4.0
+            },
+            {
+                "ruolo": "P",
+                "nome": "SCUFFET",
+                "voto": 5.0,
+                "fantavoto": 1.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "DANILO L",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARIO RUI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MAZZOCCHI",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARUSIC",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "SOULE",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "THURAM K",
+                "voto": 6.0,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "CIURRIA",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "TAMEZE",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "ZEROLI",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "SCAMACCA",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "BELTRAN",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "MOTA",
+                "voto": 7.0,
+                "fantavoto": 9.5
+            }
+        ],
+        "modificatori": {
+            "0": null
+        }
+    },
+    "giornata 5": {
+        "utente": "Annalisa",
+        "punteggio": 69.5,
+        "titolari": [
+            {
+                "ruolo": "P",
+                "nome": "SOMMER",
+                "voto": 7.0,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BUONGIORNO",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "BREMER",
+                "voto": 7.0,
+                "fantavoto": 7.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BASTONI",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BELLANOVA",
+                "voto": 5.0,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "LOCATELLI M",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "THURAM K",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "SOULE",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "LEAO",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "KRSTOVIC",
+                "voto": 7.0,
+                "fantavoto": 10.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "ZACCAGNI",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            }
+        ],
+        "panchina": [
+            {
+                "ruolo": "P",
+                "nome": "CARNESECCHI",
+                "voto": 7.0,
+                "fantavoto": 4.0
+            },
+            {
+                "ruolo": "P",
+                "nome": "SCUFFET",
+                "voto": 5.5,
+                "fantavoto": 3.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "DANILO L",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MAZZOCCHI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARUSIC",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARIO RUI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "SUSLOV",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "SAMARDZIC",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "TAMEZE",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "CIURRIA",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "ZEROLI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "MOTA",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "SCAMACCA",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "BELTRAN",
+                "voto": null,
+                "fantavoto": null
+            }
+        ],
+        "modificatori": {
+            "0": null
+        }
+    },
+    "giornata 6": {
+        "utente": "Annalisa",
+        "punteggio": 62.0,
+        "titolari": [
+            {
+                "ruolo": "P",
+                "nome": "SOMMER",
+                "voto": 6.0,
+                "fantavoto": 4.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BASTONI",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BREMER",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "BUONGIORNO",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "BELLANOVA",
+                "voto": 5.5,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "SUSLOV",
+                "voto": 5.0,
+                "fantavoto": 4.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "SOULE",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "TAMEZE",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "LEAO",
+                "voto": 6.5,
+                "fantavoto": 7.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "KRSTOVIC",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "ZACCAGNI",
+                "voto": 6.5,
+                "fantavoto": 6.0
+            }
+        ],
+        "panchina": [
+            {
+                "ruolo": "P",
+                "nome": "CARNESECCHI",
+                "voto": 6.0,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "P",
+                "nome": "SCUFFET",
+                "voto": 6.0,
+                "fantavoto": 4.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "DANILO L",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARUSIC",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARIO RUI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MAZZOCCHI",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "SAMARDZIC",
+                "voto": 7.0,
+                "fantavoto": 10.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "THURAM K",
+                "voto": 6.5,
+                "fantavoto": 7.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "LOCATELLI M",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "ZEROLI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "CIURRIA",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "MOTA",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "BELTRAN",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "SCAMACCA",
+                "voto": null,
+                "fantavoto": null
+            }
+        ],
+        "modificatori": {
+            "0": null
+        }
+    },
+    "giornata 7": {
+        "utente": "Annalisa",
+        "punteggio": 69.0,
+        "titolari": [
+            {
+                "ruolo": "P",
+                "nome": "SOMMER",
+                "voto": 6.0,
+                "fantavoto": 4.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BUONGIORNO",
+                "voto": 6.0,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "BELLANOVA",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BASTONI",
+                "voto": 7.0,
+                "fantavoto": 8.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "TAMEZE",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "THURAM K",
+                "voto": 6.0,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "LOCATELLI M",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "SAMARDZIC",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "LEAO",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "KRSTOVIC",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "ZACCAGNI",
+                "voto": 7.0,
+                "fantavoto": 10.0
+            }
+        ],
+        "panchina": [
+            {
+                "ruolo": "P",
+                "nome": "CARNESECCHI",
+                "voto": 6.0,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "P",
+                "nome": "SCUFFET",
+                "voto": 6.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "DANILO L",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARUSIC",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "MAZZOCCHI",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARIO RUI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "BREMER",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "CIURRIA",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "SOULE",
+                "voto": 5.5,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "ZEROLI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "SUSLOV",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "MOTA",
+                "voto": 7.0,
+                "fantavoto": 10.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "BELTRAN",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "SCAMACCA",
+                "voto": null,
+                "fantavoto": null
+            }
+        ],
+        "modificatori": {
+            "0": null
+        }
+    },
+    "giornata 8": {
+        "utente": "Annalisa",
+        "punteggio": 75.0,
+        "titolari": [
+            {
+                "ruolo": "P",
+                "nome": "CARNESECCHI",
+                "voto": 6.5,
+                "fantavoto": 7.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "BUONGIORNO",
+                "voto": 7.0,
+                "fantavoto": 7.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BELLANOVA",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "BASTONI",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARUSIC",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "SUSLOV",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "LOCATELLI M",
+                "voto": 6.0,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "THURAM K",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "LEAO",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "KRSTOVIC",
+                "voto": 5.0,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "ZACCAGNI",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            }
+        ],
+        "panchina": [
+            {
+                "ruolo": "P",
+                "nome": "SOMMER",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "P",
+                "nome": "SCUFFET",
+                "voto": 6.0,
+                "fantavoto": 4.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "DANILO L",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "MAZZOCCHI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARIO RUI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "BREMER",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "TAMEZE",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "SAMARDZIC",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "SOULE",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "CIURRIA",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "ZEROLI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "MOTA",
+                "voto": 7.5,
+                "fantavoto": 13.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "BELTRAN",
+                "voto": 7.0,
+                "fantavoto": 10.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "SCAMACCA",
+                "voto": null,
+                "fantavoto": null
+            }
+        ],
+        "modificatori": {
+            "0": null
+        }
+    },
+    "giornata 9": {
+        "utente": "Annalisa",
+        "punteggio": 67.0,
+        "titolari": [
+            {
+                "ruolo": "P",
+                "nome": "CARNESECCHI",
+                "voto": 6.0,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BASTONI",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "BUONGIORNO",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "BELLANOVA",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARUSIC",
+                "voto": 6.0,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "SUSLOV",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "LOCATELLI M",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "THURAM K",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "LEAO",
+                "voto": 7.0,
+                "fantavoto": 10.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "MOTA",
+                "voto": 6.0,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "ZACCAGNI",
+                "voto": null,
+                "fantavoto": null
+            }
+        ],
+        "panchina": [
+            {
+                "ruolo": "P",
+                "nome": "SOMMER",
+                "voto": 5.5,
+                "fantavoto": 1.5
+            },
+            {
+                "ruolo": "P",
+                "nome": "SCUFFET",
+                "voto": 6.0,
+                "fantavoto": 4.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "DANILO L",
+                "voto": 4.5,
+                "fantavoto": 4.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "MAZZOCCHI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARIO RUI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "BREMER",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "SOULE",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "SAMARDZIC",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "TAMEZE",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "CIURRIA",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "ZEROLI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "KRSTOVIC",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "BELTRAN",
+                "voto": 7.5,
+                "fantavoto": 11.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "SCAMACCA",
+                "voto": null,
+                "fantavoto": null
+            }
+        ],
+        "modificatori": {
+            "0": null
+        }
+    },
+    "giornata 10": {
+        "utente": "Annalisa",
+        "punteggio": 73.0,
+        "titolari": [
+            {
+                "ruolo": "P",
+                "nome": "SOMMER",
+                "voto": 6.0,
+                "fantavoto": 7.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BUONGIORNO",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BASTONI",
+                "voto": 6.5,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BELLANOVA",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "THURAM K",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "SUSLOV",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "LOCATELLI M",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "SAMARDZIC",
+                "voto": 7.5,
+                "fantavoto": 11.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "LEAO",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "BELTRAN",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "MOTA",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            }
+        ],
+        "panchina": [
+            {
+                "ruolo": "P",
+                "nome": "CARNESECCHI",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "P",
+                "nome": "SCUFFET",
+                "voto": 5.0,
+                "fantavoto": 3.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "DANILO L",
+                "voto": 5.0,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARUSIC",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "TAMEZE",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "SOULE",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "ZACCAGNI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "KRSTOVIC",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            }
+        ],
+        "modificatori": {
+            "0": null
+        }
+    },
+    "giornata 11": {
+        "utente": "Annalisa",
+        "punteggio": 69.5,
+        "titolari": [
+            {
+                "ruolo": "P",
+                "nome": "SOMMER",
+                "voto": 6.5,
+                "fantavoto": 7.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "BASTONI",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARUSIC",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "BUONGIORNO",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "SUSLOV",
+                "voto": 6.0,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "SAMARDZIC",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "THURAM K",
+                "voto": 7.0,
+                "fantavoto": 7.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "LOCATELLI M",
+                "voto": 6.5,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "BELTRAN",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "MOTA",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "LEAO",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            }
+        ],
+        "panchina": [
+            {
+                "ruolo": "P",
+                "nome": "CARNESECCHI",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "P",
+                "nome": "SCUFFET",
+                "voto": 5.0,
+                "fantavoto": 3.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BELLANOVA",
+                "voto": 6.5,
+                "fantavoto": 7.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "DANILO L",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MAZZOCCHI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARIO RUI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "BREMER",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "TAMEZE",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "SOULE",
+                "voto": 7.0,
+                "fantavoto": 10.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "ZEROLI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "CIURRIA",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "KRSTOVIC",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "ZACCAGNI",
+                "voto": 7.0,
+                "fantavoto": 10.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "SCAMACCA",
+                "voto": null,
+                "fantavoto": null
+            }
+        ],
+        "modificatori": {
+            "0": null
+        }
+    },
+    "giornata 12": {
+        "utente": "Annalisa",
+        "punteggio": 79.0,
+        "titolari": [
+            {
+                "ruolo": "P",
+                "nome": "CARNESECCHI",
+                "voto": 6.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "BUONGIORNO",
+                "voto": 7.0,
+                "fantavoto": 7.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BASTONI",
+                "voto": 6.5,
+                "fantavoto": 7.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "BELLANOVA",
+                "voto": 7.0,
+                "fantavoto": 8.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "LOCATELLI M",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "THURAM K",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "SUSLOV",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "SOULE",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "LEAO",
+                "voto": 7.5,
+                "fantavoto": 13.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "MOTA",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "BELTRAN",
+                "voto": 6.5,
+                "fantavoto": 7.5
+            }
+        ],
+        "panchina": [
+            {
+                "ruolo": "P",
+                "nome": "SOMMER",
+                "voto": 6.0,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "P",
+                "nome": "SCUFFET",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARUSIC",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "DANILO L",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARIO RUI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MAZZOCCHI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "BREMER",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "SAMARDZIC",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "CIURRIA",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "TAMEZE",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "ZEROLI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "KRSTOVIC",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "ZACCAGNI",
+                "voto": 7.5,
+                "fantavoto": 10.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "SCAMACCA",
+                "voto": null,
+                "fantavoto": null
+            }
+        ],
+        "modificatori": {
+            "0": null
+        }
+    },
+    "giornata 13": {
+        "utente": "Annalisa",
+        "punteggio": 70.5,
+        "titolari": [
+            {
+                "ruolo": "P",
+                "nome": "SOMMER",
+                "voto": 6.0,
+                "fantavoto": 7.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BUONGIORNO",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "BELLANOVA",
+                "voto": 7.0,
+                "fantavoto": 8.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BASTONI",
+                "voto": 6.5,
+                "fantavoto": 7.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "SUSLOV",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "SOULE",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "THURAM K",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "LOCATELLI M",
+                "voto": 6.0,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "LEAO",
+                "voto": 5.5,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "BELTRAN",
+                "voto": 6.5,
+                "fantavoto": 7.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "ZACCAGNI",
+                "voto": 7.5,
+                "fantavoto": 11.5
+            }
+        ],
+        "panchina": [
+            {
+                "ruolo": "P",
+                "nome": "CARNESECCHI",
+                "voto": 6.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "P",
+                "nome": "SCUFFET",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARUSIC",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "DANILO L",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MAZZOCCHI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARIO RUI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "BREMER",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "SAMARDZIC",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "TAMEZE",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "CIURRIA",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "ZEROLI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "KRSTOVIC",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "MOTA",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "SCAMACCA",
+                "voto": null,
+                "fantavoto": null
+            }
+        ],
+        "modificatori": {
+            "0": null
+        }
+    },
+    "giornata 14": {
+        "utente": "Annalisa",
+        "punteggio": 65.5,
+        "titolari": [
+            {
+                "ruolo": "P",
+                "nome": "CARNESECCHI",
+                "voto": 6.0,
+                "fantavoto": 7.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BUONGIORNO",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "DANILO L",
+                "voto": 5.5,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BASTONI",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "BELLANOVA",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "THURAM K",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "SOULE",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "SUSLOV",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "LEAO",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "BELTRAN",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "ZACCAGNI",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            }
+        ],
+        "panchina": [
+            {
+                "ruolo": "P",
+                "nome": "SOMMER",
+                "voto": 6.0,
+                "fantavoto": 3.0
+            },
+            {
+                "ruolo": "P",
+                "nome": "SCUFFET",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARUSIC",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARIO RUI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "BREMER",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MAZZOCCHI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "LOCATELLI M",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "SAMARDZIC",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "CIURRIA",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "TAMEZE",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "ZEROLI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "MOTA",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "KRSTOVIC",
+                "voto": 6.5,
+                "fantavoto": 7.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "SCAMACCA",
+                "voto": null,
+                "fantavoto": null
+            }
+        ],
+        "modificatori": {
+            "0": null
+        }
+    },
+    "giornata 15": {
+        "utente": "Annalisa",
+        "punteggio": 67.5,
+        "titolari": [
+            {
+                "ruolo": "P",
+                "nome": "SOMMER",
+                "voto": 6.0,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BUONGIORNO",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "BELLANOVA",
+                "voto": 5.5,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BASTONI",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "DANILO L",
+                "voto": 6.0,
+                "fantavoto": 7.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "LOCATELLI M",
+                "voto": 5.0,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "SUSLOV",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "THURAM K",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "LEAO",
+                "voto": 6.5,
+                "fantavoto": 7.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "BELTRAN",
+                "voto": 6.5,
+                "fantavoto": 7.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "ZACCAGNI",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            }
+        ],
+        "panchina": [
+            {
+                "ruolo": "P",
+                "nome": "CARNESECCHI",
+                "voto": 6.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "P",
+                "nome": "SCUFFET",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARUSIC",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARIO RUI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "BREMER",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MAZZOCCHI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "SOULE",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "SAMARDZIC",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "CIURRIA",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "TAMEZE",
+                "voto": 5.5,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "ZEROLI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "KRSTOVIC",
+                "voto": 6.5,
+                "fantavoto": 9.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "MOTA",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "SCAMACCA",
+                "voto": null,
+                "fantavoto": null
+            }
+        ],
+        "modificatori": {
+            "0": null
+        }
+    },
+    "giornata 16": {
+        "utente": "Annalisa",
+        "punteggio": 69.0,
+        "titolari": [
+            {
+                "ruolo": "P",
+                "nome": "CARNESECCHI",
+                "voto": 7.5,
+                "fantavoto": 8.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "BUONGIORNO",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BASTONI",
+                "voto": 6.5,
+                "fantavoto": 7.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "DANILO L",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "SUSLOV",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "LOCATELLI M",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "THURAM K",
+                "voto": 7.0,
+                "fantavoto": 8.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "SAMARDZIC",
+                "voto": 6.0,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "LEAO",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "BELTRAN",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "ZACCAGNI",
+                "voto": 5.5,
+                "fantavoto": 5.0
+            }
+        ],
+        "panchina": [
+            {
+                "ruolo": "P",
+                "nome": "SOMMER",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "P",
+                "nome": "SCUFFET",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "BELLANOVA",
+                "voto": 6.5,
+                "fantavoto": 7.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARUSIC",
+                "voto": 4.5,
+                "fantavoto": 4.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARIO RUI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "BREMER",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MAZZOCCHI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "SOULE",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "CIURRIA",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "TAMEZE",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "ZEROLI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "KRSTOVIC",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "MOTA",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "SCAMACCA",
+                "voto": null,
+                "fantavoto": null
+            }
+        ],
+        "modificatori": {
+            "0": null
+        }
+    },
+    "giornata 17": {
+        "utente": "Annalisa",
+        "punteggio": 69.0,
+        "titolari": [
+            {
+                "ruolo": "P",
+                "nome": "CARNESECCHI",
+                "voto": 6.0,
+                "fantavoto": 4.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BELLANOVA",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "DANILO L",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "BASTONI",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "SUSLOV",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "LOCATELLI M",
+                "voto": 6.5,
+                "fantavoto": 7.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "THURAM K",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "SOULE",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "LEAO",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "KRSTOVIC",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "ZACCAGNI",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            }
+        ],
+        "panchina": [
+            {
+                "ruolo": "P",
+                "nome": "SOMMER",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "P",
+                "nome": "SCUFFET",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARUSIC",
+                "voto": 7.0,
+                "fantavoto": 10.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "MAZZOCCHI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARIO RUI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "BUONGIORNO",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "BREMER",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "SAMARDZIC",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "CIURRIA",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "TAMEZE",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "ZEROLI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "BELTRAN",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "MOTA",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "SCAMACCA",
+                "voto": null,
+                "fantavoto": null
+            }
+        ],
+        "modificatori": {
+            "0": null
+        }
+    },
+    "giornata 18": {
+        "utente": "Annalisa",
+        "punteggio": 79.0,
+        "titolari": [
+            {
+                "ruolo": "P",
+                "nome": "SOMMER",
+                "voto": 6.5,
+                "fantavoto": 7.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "BELLANOVA",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARUSIC",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BASTONI",
+                "voto": 7.0,
+                "fantavoto": 10.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "SUSLOV",
+                "voto": 5.5,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "THURAM K",
+                "voto": 8.0,
+                "fantavoto": 14.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "LOCATELLI M",
+                "voto": 7.0,
+                "fantavoto": 7.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "SAMARDZIC",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "ZACCAGNI",
+                "voto": 6.0,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "KRSTOVIC",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "BELTRAN",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            }
+        ],
+        "panchina": [
+            {
+                "ruolo": "P",
+                "nome": "CARNESECCHI",
+                "voto": 6.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "P",
+                "nome": "SCUFFET",
+                "voto": 6.5,
+                "fantavoto": 3.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "DANILO L",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "BUONGIORNO",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "BREMER",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARIO RUI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MAZZOCCHI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "SOULE",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "CIURRIA",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "TAMEZE",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "ZEROLI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "LEAO",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "MOTA",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "SCAMACCA",
+                "voto": null,
+                "fantavoto": null
+            }
+        ],
+        "modificatori": {
+            "0": null
+        }
+    },
+    "giornata 19": {
+        "utente": "Annalisa",
+        "punteggio": 71.5,
+        "titolari": [
+            {
+                "ruolo": "P",
+                "nome": "SOMMER",
+                "voto": 6.5,
+                "fantavoto": 4.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARUSIC",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BASTONI",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "DANILO L",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "THURAM K",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "SUSLOV",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "SAMARDZIC",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "LOCATELLI M",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "ZACCAGNI",
+                "voto": 6.0,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "KRSTOVIC",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "LEAO",
+                "voto": 7.0,
+                "fantavoto": 9.5
+            }
+        ],
+        "panchina": [
+            {
+                "ruolo": "P",
+                "nome": "CARNESECCHI",
+                "voto": 7.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "P",
+                "nome": "SCUFFET",
+                "voto": 6.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "BUONGIORNO",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "BREMER",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "BELLANOVA",
+                "voto": 6.5,
+                "fantavoto": 7.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "MAZZOCCHI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARIO RUI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "CIURRIA",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "SOULE",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "ZEROLI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "TAMEZE",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "BELTRAN",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "SCAMACCA",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "MOTA",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            }
+        ],
+        "modificatori": {
+            "0": null
+        }
+    },
+    "giornata 20": {
+        "utente": "Annalisa",
+        "punteggio": 80.0,
+        "titolari": [
+            {
+                "ruolo": "P",
+                "nome": "SOMMER",
+                "voto": 6.0,
+                "fantavoto": 7.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BELLANOVA",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "BASTONI",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARUSIC",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "SUSLOV",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "SAMARDZIC",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "THURAM K",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "CIURRIA",
+                "voto": 7.0,
+                "fantavoto": 9.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "KRSTOVIC",
+                "voto": 7.5,
+                "fantavoto": 13.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "BELTRAN",
+                "voto": 7.0,
+                "fantavoto": 10.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "LEAO",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            }
+        ],
+        "panchina": [
+            {
+                "ruolo": "P",
+                "nome": "CARNESECCHI",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "P",
+                "nome": "SCUFFET",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MAZZOCCHI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "DANILO L",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "BUONGIORNO",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "BREMER",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARIO RUI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "SOULE",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "ZEROLI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "TAMEZE",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "LOCATELLI M",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "MOTA",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "SCAMACCA",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "ZACCAGNI",
+                "voto": null,
+                "fantavoto": null
+            }
+        ],
+        "modificatori": {
+            "0": null
+        }
+    },
+    "giornata 21": {
+        "utente": "Annalisa",
+        "punteggio": 67.5,
+        "titolari": [
+            {
+                "ruolo": "P",
+                "nome": "SOMMER",
+                "voto": 6.0,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BELLANOVA",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARUSIC",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "BASTONI",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "SUSLOV",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "CIURRIA",
+                "voto": 6.5,
+                "fantavoto": 7.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "THURAM K",
+                "voto": 7.0,
+                "fantavoto": 8.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "LOCATELLI M",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "LEAO",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "BELTRAN",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "ZACCAGNI",
+                "voto": 7.5,
+                "fantavoto": 11.5
+            }
+        ],
+        "panchina": [
+            {
+                "ruolo": "P",
+                "nome": "CARNESECCHI",
+                "voto": 6.0,
+                "fantavoto": 3.0
+            },
+            {
+                "ruolo": "P",
+                "nome": "SCUFFET",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MAZZOCCHI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "BUONGIORNO",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "BREMER",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "DANILO L",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARIO RUI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "TAMEZE",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "SOULE",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "SAMARDZIC",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "ZEROLI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "KRSTOVIC",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "SCAMACCA",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "MOTA",
+                "voto": null,
+                "fantavoto": null
+            }
+        ],
+        "modificatori": {
+            "0": null
+        }
+    },
+    "giornata 22": {
+        "utente": "Annalisa",
+        "punteggio": 65.5,
+        "titolari": [
+            {
+                "ruolo": "P",
+                "nome": "CARNESECCHI",
+                "voto": 6.0,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BELLANOVA",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARUSIC",
+                "voto": 6.5,
+                "fantavoto": 9.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "BASTONI",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "SUSLOV",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "CIURRIA",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "THURAM K",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "LOCATELLI M",
+                "voto": 5.0,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "LEAO",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "ZACCAGNI",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "KRSTOVIC",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            }
+        ],
+        "panchina": [
+            {
+                "ruolo": "P",
+                "nome": "SOMMER",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "P",
+                "nome": "SCUFFET",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "BUONGIORNO",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MAZZOCCHI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "BREMER",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "DANILO L",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARIO RUI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "SAMARDZIC",
+                "voto": 5.5,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "TAMEZE",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "SOULE",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "ZEROLI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "BELTRAN",
+                "voto": 7.0,
+                "fantavoto": 10.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "MOTA",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "SCAMACCA",
+                "voto": null,
+                "fantavoto": null
+            }
+        ],
+        "modificatori": {
+            "0": null
+        }
+    },
+    "giornata 23": {
+        "utente": "Annalisa",
+        "punteggio": 72.5,
+        "titolari": [
+            {
+                "ruolo": "P",
+                "nome": "CARNESECCHI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARUSIC",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BELLANOVA",
+                "voto": 6.5,
+                "fantavoto": 7.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "BASTONI",
+                "voto": 6.0,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "SUSLOV",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "LOCATELLI M",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "THURAM K",
+                "voto": 6.5,
+                "fantavoto": 7.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "CIURRIA",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "LEAO",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "BELTRAN",
+                "voto": 5.5,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "ZACCAGNI",
+                "voto": 7.5,
+                "fantavoto": 11.5
+            }
+        ],
+        "panchina": [
+            {
+                "ruolo": "P",
+                "nome": "SOMMER",
+                "voto": 6.0,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "P",
+                "nome": "SCUFFET",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "BUONGIORNO",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MAZZOCCHI",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "DANILO L",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARIO RUI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "BREMER",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "SAMARDZIC",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "SOULE",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "TAMEZE",
+                "voto": 5.0,
+                "fantavoto": 4.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "ZEROLI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "KRSTOVIC",
+                "voto": 8.0,
+                "fantavoto": 13.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "MOTA",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "SCAMACCA",
+                "voto": null,
+                "fantavoto": null
+            }
+        ],
+        "modificatori": {
+            "0": null
+        }
+    },
+    "giornata 24": {
+        "utente": "Annalisa",
+        "punteggio": 75.0,
+        "titolari": [
+            {
+                "ruolo": "P",
+                "nome": "SOMMER",
+                "voto": 6.0,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BASTONI",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "HUMMELS",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARUSIC",
+                "voto": 7.0,
+                "fantavoto": 10.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BELLANOVA",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "CIURRIA",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "LOCATELLI M",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "THURAM K",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "LEAO",
+                "voto": 7.0,
+                "fantavoto": 10.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "ZACCAGNI",
+                "voto": 7.0,
+                "fantavoto": 8.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "VLAHOVIC",
+                "voto": null,
+                "fantavoto": null
+            }
+        ],
+        "panchina": [
+            {
+                "ruolo": "P",
+                "nome": "SCUFFET",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "P",
+                "nome": "CARNESECCHI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "LAZARO",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BUONGIORNO",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "ZAPPACOSTA",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "MAZZOCCHI",
+                "voto": 5.0,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "SUSLOV",
+                "voto": 5.0,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "TAMEZE",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "SOULE",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "SAMARDZIC",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "ZEROLI",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "KRSTOVIC",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "BELTRAN",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "MOTA",
+                "voto": 5.0,
+                "fantavoto": 5.0
+            }
+        ],
+        "modificatori": {
+            "0": null
+        }
+    },
+    "giornata 25": {
+        "utente": "Annalisa",
+        "punteggio": 67.0,
+        "titolari": [
+            {
+                "ruolo": "P",
+                "nome": "CARNESECCHI",
+                "voto": 6.0,
+                "fantavoto": 7.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BUONGIORNO",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BELLANOVA",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "BASTONI",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "LAZARO",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "LOCATELLI M",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "THURAM K",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "SUSLOV",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "LEAO",
+                "voto": 6.5,
+                "fantavoto": 7.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "KRSTOVIC",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "ZACCAGNI",
+                "voto": 7.0,
+                "fantavoto": 7.5
+            }
+        ],
+        "panchina": [
+            {
+                "ruolo": "P",
+                "nome": "SOMMER",
+                "voto": 6.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "P",
+                "nome": "SCUFFET",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARUSIC",
+                "voto": 5.0,
+                "fantavoto": 3.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "ZAPPACOSTA",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "HUMMELS",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MAZZOCCHI",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "CIURRIA",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "SAMARDZIC",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "SOULE",
+                "voto": 7.0,
+                "fantavoto": 9.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "ZEROLI",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "TAMEZE",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "BELTRAN",
+                "voto": 5.0,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "MOTA",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "VLAHOVIC",
+                "voto": null,
+                "fantavoto": null
+            }
+        ],
+        "modificatori": {
+            "0": null
+        }
+    },
+    "giornata 26": {
+        "utente": "Annalisa",
+        "punteggio": 69.0,
+        "titolari": [
+            {
+                "ruolo": "P",
+                "nome": "CARNESECCHI",
+                "voto": 6.0,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "BUONGIORNO",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "BELLANOVA",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BASTONI",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "ZAPPACOSTA",
+                "voto": 7.0,
+                "fantavoto": 10.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "THURAM K",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "SUSLOV",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "CIURRIA",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "LEAO",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "BELTRAN",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "ZACCAGNI",
+                "voto": 6.5,
+                "fantavoto": 6.0
+            }
+        ],
+        "panchina": [
+            {
+                "ruolo": "P",
+                "nome": "SCUFFET",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "P",
+                "nome": "SOMMER",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARUSIC",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "LAZARO",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "HUMMELS",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "MAZZOCCHI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "SOULE",
+                "voto": 7.0,
+                "fantavoto": 8.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "SAMARDZIC",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "TAMEZE",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "LOCATELLI M",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "ZEROLI",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "VLAHOVIC",
+                "voto": 7.0,
+                "fantavoto": 10.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "KRSTOVIC",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "MOTA",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            }
+        ],
+        "modificatori": {
+            "0": null
+        }
+    },
+    "giornata 27": {
+        "utente": "Annalisa",
+        "punteggio": 73.5,
+        "titolari": [
+            {
+                "ruolo": "P",
+                "nome": "CARNESECCHI",
+                "voto": 6.5,
+                "fantavoto": 7.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "BUONGIORNO",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "ZAPPACOSTA",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "BASTONI",
+                "voto": 7.0,
+                "fantavoto": 7.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BELLANOVA",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "LOCATELLI M",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "SUSLOV",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "THURAM K",
+                "voto": 7.0,
+                "fantavoto": 10.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "LEAO",
+                "voto": 6.5,
+                "fantavoto": 7.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "VLAHOVIC",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "BELTRAN",
+                "voto": 5.0,
+                "fantavoto": 1.5
+            }
+        ],
+        "panchina": [
+            {
+                "ruolo": "P",
+                "nome": "SCUFFET",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "P",
+                "nome": "SOMMER",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "LAZARO",
+                "voto": 6.5,
+                "fantavoto": 7.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARUSIC",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "HUMMELS",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MAZZOCCHI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "CIURRIA",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "SOULE",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "SAMARDZIC",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "TAMEZE",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "ZEROLI",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "ZACCAGNI",
+                "voto": 7.0,
+                "fantavoto": 10.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "KRSTOVIC",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "MOTA",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            }
+        ],
+        "modificatori": {
+            "0": null
+        }
+    },
+    "giornata 28": {
+        "utente": "Annalisa",
+        "punteggio": 85.0,
+        "titolari": [
+            {
+                "ruolo": "P",
+                "nome": "SOMMER",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "BUONGIORNO",
+                "voto": 6.0,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "BELLANOVA",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "BASTONI",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "ZAPPACOSTA",
+                "voto": 7.0,
+                "fantavoto": 10.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "THURAM K",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "SOULE",
+                "voto": 7.5,
+                "fantavoto": 10.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "SUSLOV",
+                "voto": 6.0,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "LEAO",
+                "voto": 7.0,
+                "fantavoto": 8.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "ZACCAGNI",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "KRSTOVIC",
+                "voto": 7.5,
+                "fantavoto": 13.0
+            }
+        ],
+        "panchina": [
+            {
+                "ruolo": "P",
+                "nome": "CARNESECCHI",
+                "voto": 6.5,
+                "fantavoto": 7.5
+            },
+            {
+                "ruolo": "P",
+                "nome": "SCUFFET",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARUSIC",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "LAZARO",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "HUMMELS",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "MAZZOCCHI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "LOCATELLI M",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "SAMARDZIC",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "TAMEZE",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "ZEROLI",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "CIURRIA",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "BELTRAN",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "VLAHOVIC",
+                "voto": 5.0,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "MOTA",
+                "voto": 7.0,
+                "fantavoto": 9.0
+            }
+        ],
+        "modificatori": {
+            "0": null
+        }
+    },
+    "giornata 29": {
+        "utente": "Annalisa",
+        "punteggio": 64.0,
+        "titolari": [
+            {
+                "ruolo": "P",
+                "nome": "SOMMER",
+                "voto": 6.5,
+                "fantavoto": 7.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "BUONGIORNO",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BELLANOVA",
+                "voto": 5.5,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BASTONI",
+                "voto": 5.5,
+                "fantavoto": 4.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "THURAM K",
+                "voto": 5.5,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "SUSLOV",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "SOULE",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "LOCATELLI M",
+                "voto": 4.5,
+                "fantavoto": 4.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "LEAO",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "ZACCAGNI",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "KRSTOVIC",
+                "voto": 6.5,
+                "fantavoto": 9.0
+            }
+        ],
+        "panchina": [
+            {
+                "ruolo": "P",
+                "nome": "CARNESECCHI",
+                "voto": 6.5,
+                "fantavoto": 4.5
+            },
+            {
+                "ruolo": "P",
+                "nome": "SCUFFET",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "ZAPPACOSTA",
+                "voto": 5.0,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARUSIC",
+                "voto": 4.5,
+                "fantavoto": 4.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "HUMMELS",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "LAZARO",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "MAZZOCCHI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "ZEROLI",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "SAMARDZIC",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "CIURRIA",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "TAMEZE",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "MOTA",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "BELTRAN",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "VLAHOVIC",
+                "voto": null,
+                "fantavoto": null
+            }
+        ],
+        "modificatori": {
+            "0": null
+        }
+    },
+    "giornata 30": {
+        "utente": "Annalisa",
+        "punteggio": 67.5,
+        "titolari": [
+            {
+                "ruolo": "P",
+                "nome": "SOMMER",
+                "voto": 7.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "HUMMELS",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "BELLANOVA",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "BUONGIORNO",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "ZAPPACOSTA",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "SOULE",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "THURAM K",
+                "voto": 6.5,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "LOCATELLI M",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "LEAO",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "VLAHOVIC",
+                "voto": 6.0,
+                "fantavoto": 7.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "ZACCAGNI",
+                "voto": 6.0,
+                "fantavoto": 5.5
+            }
+        ],
+        "panchina": [
+            {
+                "ruolo": "P",
+                "nome": "CARNESECCHI",
+                "voto": 6.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "P",
+                "nome": "SCUFFET",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARUSIC",
+                "voto": 6.5,
+                "fantavoto": 9.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "LAZARO",
+                "voto": 5.5,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "MAZZOCCHI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "BASTONI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "SUSLOV",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "SAMARDZIC",
+                "voto": 5.5,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "CIURRIA",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "TAMEZE",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "ZEROLI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "KRSTOVIC",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "MOTA",
+                "voto": 5.0,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "BELTRAN",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            }
+        ],
+        "modificatori": {
+            "0": null
+        }
+    },
+    "giornata 31": {
+        "utente": "Annalisa",
+        "punteggio": 67.5,
+        "titolari": [
+            {
+                "ruolo": "P",
+                "nome": "SOMMER",
+                "voto": 7.0,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BUONGIORNO",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "BASTONI",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BELLANOVA",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "ZAPPACOSTA",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "THURAM K",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "LOCATELLI M",
+                "voto": 7.0,
+                "fantavoto": 10.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "SOULE",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "LEAO",
+                "voto": 5.0,
+                "fantavoto": 4.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "KRSTOVIC",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "ZACCAGNI",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            }
+        ],
+        "panchina": [
+            {
+                "ruolo": "P",
+                "nome": "CARNESECCHI",
+                "voto": 6.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "P",
+                "nome": "SCUFFET",
+                "voto": 6.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARUSIC",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "HUMMELS",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "LAZARO",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MAZZOCCHI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "CIURRIA",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "ZEROLI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "SAMARDZIC",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "TAMEZE",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "SUSLOV",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "VLAHOVIC",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "MOTA",
+                "voto": 6.5,
+                "fantavoto": 9.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "BELTRAN",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            }
+        ],
+        "modificatori": {
+            "0": null
+        }
+    },
+    "giornata 32": {
+        "utente": "Annalisa",
+        "punteggio": 77.5,
+        "titolari": [
+            {
+                "ruolo": "P",
+                "nome": "SOMMER",
+                "voto": 6.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "BASTONI",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "ZAPPACOSTA",
+                "voto": 6.0,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARUSIC",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "SOULE",
+                "voto": 7.0,
+                "fantavoto": 10.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "THURAM K",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "CIURRIA",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "LOCATELLI M",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "LEAO",
+                "voto": 7.5,
+                "fantavoto": 11.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "VLAHOVIC",
+                "voto": 7.0,
+                "fantavoto": 9.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "ZACCAGNI",
+                "voto": 6.0,
+                "fantavoto": 5.5
+            }
+        ],
+        "panchina": [
+            {
+                "ruolo": "P",
+                "nome": "CARNESECCHI",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "P",
+                "nome": "SCUFFET",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MAZZOCCHI",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "HUMMELS",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "BELLANOVA",
+                "voto": 6.5,
+                "fantavoto": 7.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "LAZARO",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "BUONGIORNO",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "SAMARDZIC",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "TAMEZE",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "ZEROLI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "SUSLOV",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "MOTA",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "KRSTOVIC",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "BELTRAN",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            }
+        ],
+        "modificatori": {
+            "0": null
+        }
+    },
+    "giornata 33": {
+        "utente": "Annalisa",
+        "punteggio": 65.5,
+        "titolari": [
+            {
+                "ruolo": "P",
+                "nome": "SOMMER",
+                "voto": 6.0,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BUONGIORNO",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "BASTONI",
+                "voto": 6.0,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "ZAPPACOSTA",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "THURAM K",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "LOCATELLI M",
+                "voto": 6.0,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "SOULE",
+                "voto": 7.0,
+                "fantavoto": 8.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "SUSLOV",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "LEAO",
+                "voto": 5.0,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "VLAHOVIC",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "ZACCAGNI",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            }
+        ],
+        "panchina": [
+            {
+                "ruolo": "P",
+                "nome": "CARNESECCHI",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "P",
+                "nome": "SCUFFET",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "BELLANOVA",
+                "voto": 7.0,
+                "fantavoto": 8.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "HUMMELS",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARUSIC",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "MAZZOCCHI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "LAZARO",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "SAMARDZIC",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "CIURRIA",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "TAMEZE",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "ZEROLI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "KRSTOVIC",
+                "voto": 5.5,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "MOTA",
+                "voto": 5.5,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "BELTRAN",
+                "voto": 7.0,
+                "fantavoto": 10.0
+            }
+        ],
+        "modificatori": {
+            "0": null
+        }
+    },
+    "giornata 34": {
+        "utente": "Annalisa",
+        "punteggio": 68.0,
+        "titolari": [
+            {
+                "ruolo": "P",
+                "nome": "CARNESECCHI",
+                "voto": 6.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARUSIC",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "BELLANOVA",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "ZAPPACOSTA",
+                "voto": 5.5,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "THURAM K",
+                "voto": 7.0,
+                "fantavoto": 8.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "SUSLOV",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "SOULE",
+                "voto": 7.0,
+                "fantavoto": 10.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "LOCATELLI M",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "LEAO",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "BELTRAN",
+                "voto": 6.0,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "ZACCAGNI",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            }
+        ],
+        "panchina": [
+            {
+                "ruolo": "P",
+                "nome": "SOMMER",
+                "voto": 6.0,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "P",
+                "nome": "SCUFFET",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "LAZARO",
+                "voto": 5.5,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "MAZZOCCHI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "BUONGIORNO",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "HUMMELS",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "BASTONI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "SAMARDZIC",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "CIURRIA",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "TAMEZE",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "ZEROLI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "MOTA",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "VLAHOVIC",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "KRSTOVIC",
+                "voto": null,
+                "fantavoto": null
+            }
+        ],
+        "modificatori": {
+            "0": null
+        }
+    },
+    "giornata 35": {
+        "utente": "Annalisa",
+        "punteggio": 74.0,
+        "titolari": [
+            {
+                "ruolo": "P",
+                "nome": "CARNESECCHI",
+                "voto": 7.0,
+                "fantavoto": 8.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARUSIC",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BELLANOVA",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "BASTONI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "THURAM K",
+                "voto": 7.0,
+                "fantavoto": 10.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "LOCATELLI M",
+                "voto": 6.0,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "SOULE",
+                "voto": 5.5,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "SUSLOV",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "LEAO",
+                "voto": 7.5,
+                "fantavoto": 10.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "VLAHOVIC",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "ZACCAGNI",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            }
+        ],
+        "panchina": [
+            {
+                "ruolo": "P",
+                "nome": "SOMMER",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "P",
+                "nome": "SCUFFET",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "ZAPPACOSTA",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "HUMMELS",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "BUONGIORNO",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "LAZARO",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MAZZOCCHI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "CIURRIA",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "TAMEZE",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "SAMARDZIC",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "ZEROLI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "BELTRAN",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "KRSTOVIC",
+                "voto": 5.5,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "MOTA",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            }
+        ],
+        "modificatori": {
+            "0": null
+        }
+    },
+    "giornata 36": {
+        "utente": "Annalisa",
+        "punteggio": 67.0,
+        "titolari": [
+            {
+                "ruolo": "P",
+                "nome": "SOMMER",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "BASTONI",
+                "voto": 6.5,
+                "fantavoto": 7.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "MARUSIC",
+                "voto": 5.0,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "BELLANOVA",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "ZAPPACOSTA",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "THURAM K",
+                "voto": 6.0,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "SOULE",
+                "voto": 6.5,
+                "fantavoto": 7.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "LOCATELLI M",
+                "voto": 6.0,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "ZACCAGNI",
+                "voto": 5.5,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "VLAHOVIC",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "KRSTOVIC",
+                "voto": 7.0,
+                "fantavoto": 10.0
+            }
+        ],
+        "panchina": [
+            {
+                "ruolo": "P",
+                "nome": "CARNESECCHI",
+                "voto": 6.0,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "P",
+                "nome": "SCUFFET",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "LAZARO",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "BUONGIORNO",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "HUMMELS",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "MAZZOCCHI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "SUSLOV",
+                "voto": 6.0,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "SAMARDZIC",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "CIURRIA",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "TAMEZE",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "ZEROLI",
+                "voto": 6.5,
+                "fantavoto": 7.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "BELTRAN",
+                "voto": 5.0,
+                "fantavoto": 4.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "MOTA",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "LEAO",
+                "voto": null,
+                "fantavoto": null
+            }
+        ],
+        "modificatori": {
+            "0": null
+        }
+    }
+}
