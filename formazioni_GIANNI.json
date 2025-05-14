@@ -436,19 +436,13 @@
     },
     "giornata 4": {
         "utente": "Gianni",
-        "punteggio": 71.0,
+        "punteggio": 81.5,
         "titolari": [
             {
                 "ruolo": "P",
                 "nome": "MILINKOVIC-SAVIC V",
-                "voto": 6.5,
-                "fantavoto": 7.5
-            },
-            {
-                "ruolo": "D",
-                "nome": "MANCINI",
-                "voto": 6.5,
-                "fantavoto": 6.0
+                "voto": 7.0,
+                "fantavoto": 8.0
             },
             {
                 "ruolo": "D",
@@ -459,32 +453,44 @@
             {
                 "ruolo": "D",
                 "nome": "HERNANDEZ T",
+                "voto": 7.0,
+                "fantavoto": 10.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "GATTI",
+                "voto": 7.0,
+                "fantavoto": 7.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "DIMARCO",
                 "voto": 6.5,
                 "fantavoto": 6.5
             },
             {
                 "ruolo": "C",
                 "nome": "ORSOLINI",
-                "voto": 5.0,
-                "fantavoto": 5.0
-            },
-            {
-                "ruolo": "C",
-                "nome": "DIMARCO",
-                "voto": 7.0,
-                "fantavoto": 7.0
+                "voto": 5.5,
+                "fantavoto": 5.5
             },
             {
                 "ruolo": "C",
                 "nome": "BARELLA",
-                "voto": 7.5,
-                "fantavoto": 10.5
+                "voto": null,
+                "fantavoto": null
             },
             {
                 "ruolo": "C",
-                "nome": "PESSINA",
-                "voto": 6.0,
+                "nome": "FRATTESI",
+                "voto": 5.5,
                 "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "DE KETELAERE",
+                "voto": 7.0,
+                "fantavoto": 11.0
             },
             {
                 "ruolo": "A",
@@ -495,64 +501,52 @@
             {
                 "ruolo": "A",
                 "nome": "LUCCA",
-                "voto": 6.0,
-                "fantavoto": 6.0
-            },
-            {
-                "ruolo": "A",
-                "nome": "DYBALA",
-                "voto": 5.5,
-                "fantavoto": 5.5
+                "voto": 7.0,
+                "fantavoto": 10.0
             }
         ],
         "panchina": [
             {
                 "ruolo": "P",
                 "nome": "DI GREGORIO",
-                "voto": 6.0,
-                "fantavoto": 6.0
-            },
-            {
-                "ruolo": "P",
-                "nome": "FALCONE",
-                "voto": 7.0,
-                "fantavoto": 6.5
-            },
-            {
-                "ruolo": "D",
-                "nome": "ROMAGNOLI A",
-                "voto": 5.5,
-                "fantavoto": 5.5
-            },
-            {
-                "ruolo": "D",
-                "nome": "GATTI",
-                "voto": 7.0,
-                "fantavoto": 7.0
-            },
-            {
-                "ruolo": "D",
-                "nome": "CALABRIA",
                 "voto": null,
                 "fantavoto": null
             },
             {
+                "ruolo": "D",
+                "nome": "MANCINI",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "DUMFRIES",
+                "voto": 7.0,
+                "fantavoto": 9.5
+            },
+            {
                 "ruolo": "C",
-                "nome": "PELLEGRINI",
-                "voto": 6.0,
-                "fantavoto": 6.0
+                "nome": "PESSINA",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "DOUGLAS LUIZ",
+                "voto": 5.5,
+                "fantavoto": 5.5
             },
             {
                 "ruolo": "A",
-                "nome": "DE KETELAERE",
-                "voto": 6.0,
-                "fantavoto": 6.0
+                "nome": "DYBALA",
+                "voto": 6.5,
+                "fantavoto": 6.5
             },
             {
                 "ruolo": "A",
                 "nome": "NERES",
-                "voto": 7.0,
-                "fantavoto": 8.0
+                "voto": 6.5,
+                "fantavoto": 7.5
             }
         ],
         "modificatori": {
