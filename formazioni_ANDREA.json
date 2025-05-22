@@ -5764,5 +5764,166 @@
         "modificatori": {
             "0": null
         }
+    },
+    "giornata 37": {
+        "utente": "Andrea",
+        "punteggio": 67.0,
+        "titolari": [
+            {
+                "ruolo": "P",
+                "nome": "MERET",
+                "voto": 6.5,
+                "fantavoto": 7.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "MATHIAS OLIVERA",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "ACERBI",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "DI LORENZO",
+                "voto": 6.0,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "MANU KONE",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "ANGUISSA",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "MCKENNIE",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "GUENDOUZI",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "LUKAKU R",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "KOLO MUANI",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "THURAM",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            }
+        ],
+        "panchina": [
+            {
+                "ruolo": "P",
+                "nome": "SVILAR",
+                "voto": 6.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "P",
+                "nome": "PROVEDEL",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "WALKER",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "ABDULHAMID",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "DARMIAN",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "D",
+                "nome": "ZANOLI",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "TERRACCIANO F",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "RICCI S",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "MALDINI D",
+                "voto": 6.5,
+                "fantavoto": 9.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "PASALIC",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "LOBOTKA",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "POLITANO",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "CASTRO S",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "A",
+                "nome": "OKAFOR",
+                "voto": null,
+                "fantavoto": null
+            }
+        ],
+        "modificatori": {
+            "0": null
+        }
     }
 }
