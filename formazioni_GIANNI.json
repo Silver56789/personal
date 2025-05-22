@@ -4780,5 +4780,124 @@
         "modificatori": {
             "0": null
         }
+    },
+    "giornata 37": {
+        "utente": "Gianni",
+        "punteggio": 79.5,
+        "titolari": [
+            {
+                "ruolo": "P",
+                "nome": "DI GREGORIO",
+                "voto": 6.0,
+                "fantavoto": 7.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "MANCINI",
+                "voto": 7.0,
+                "fantavoto": 9.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "DUMFRIES",
+                "voto": 7.0,
+                "fantavoto": 10.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "WEAH",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "C",
+                "nome": "DIMARCO",
+                "voto": 6.5,
+                "fantavoto": 6.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "BARELLA",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "ORSOLINI",
+                "voto": 7.5,
+                "fantavoto": 11.5
+            },
+            {
+                "ruolo": "C",
+                "nome": "EDERSON J",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "LOOKMAN",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "GONZALEZ N",
+                "voto": 7.0,
+                "fantavoto": 10.0
+            },
+            {
+                "ruolo": "A",
+                "nome": "DE KETELAERE",
+                "voto": 6.5,
+                "fantavoto": 7.5
+            }
+        ],
+        "panchina": [
+            {
+                "ruolo": "P",
+                "nome": "MILINKOVIC-SAVIC V",
+                "voto": 6.0,
+                "fantavoto": 5.0
+            },
+            {
+                "ruolo": "P",
+                "nome": "FALCONE",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "CAMBIASO",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            },
+            {
+                "ruolo": "D",
+                "nome": "CALABRIA",
+                "voto": 5.5,
+                "fantavoto": 5.5
+            },
+            {
+                "ruolo": "D",
+                "nome": "THIAW",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "C",
+                "nome": "ZIELINSKI",
+                "voto": null,
+                "fantavoto": null
+            },
+            {
+                "ruolo": "A",
+                "nome": "NERES",
+                "voto": 6.0,
+                "fantavoto": 6.0
+            }
+        ],
+        "modificatori": {
+            "0": null
+        }
     }
 }
